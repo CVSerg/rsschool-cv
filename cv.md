@@ -32,6 +32,12 @@ I think that every day is better than the last one.__
 
 **Code for example**
 
+function multiply(a, b){
+
+  return a * b
+  
+}
+
 **Education**
 Studying to the graduating class Sibadi in the city Omsk
 
